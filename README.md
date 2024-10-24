@@ -1,2 +1,2 @@
-# winio-learn
-Learn the way by chosing best option for you )
+# waymo-training
+Driving simulator for training and optimizing waymo-drive
